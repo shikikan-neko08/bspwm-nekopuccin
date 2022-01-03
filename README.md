@@ -9,7 +9,7 @@
 # Details
 * Font Used : Iosevka Custom
 * GTK Theme : [Catppuccin gtk](https://github.com/sadrach-cl/catppuccin-gtk)
-* Icons     : C[mf-dots](https://github.com/obliviousofcraps/mf-dots)
+* Icons     : [mf-dots](https://github.com/obliviousofcraps/mf-dots)
 * OS        : Alter Linux 
 * WM        : BSPWM
 * Terminal  : Kitty
