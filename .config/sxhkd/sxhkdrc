@@ -6,6 +6,10 @@
 super + Return
 	kitty
 
+#lock
+super + x
+	betterlockscreen -l
+
 # program launcher
 super + @space
 	rofi -show run
@@ -17,6 +21,9 @@ super + Escape
 # Screenshot
 Print
 	$HOME/.bin/kashatto
+
+super + Print
+    scrot    
 
 #
 # bspwm hotkeys
